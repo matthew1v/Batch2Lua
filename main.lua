@@ -1,4 +1,4 @@
-a--[=[
+--[=[
 	BATCH TO ROBLOX LUA
 	EXAMPLES:
 
